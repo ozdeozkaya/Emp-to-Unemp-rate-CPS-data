@@ -9,4 +9,5 @@ You can download public raw CPS files from this link: https://www.census.gov/dat
 
 Each file here is in .dat format. 
 
+Alternatively, you can download the CPS data from https://cps.ipums.org/cps/ for different programs -- which should be easier than reading raw data as we do here. 
 
