@@ -16,3 +16,9 @@ For linking individuals, I give an example code where I link people across diffe
 
 Households in the data are in the survey for 4 consecutive months (an example; June 2010, July 2010, August 2010 and September 2010), out for 8 (October 2010, November 2010, December 2010, January 2011, February 2011, March 2011, April 2011 and May 2011), and then they return for another 4 months (June 2011, July 2011, August 2011 and September 2011) before leaving the sample permanently. Therefore, if the survey month in the sample (variable HRMIS) is 4 or 8 then this person will not be in the sample of next month. For example, if we use Dec 2011 basic CPS file , then households with HRMIS=4 or HRMIS=8 will not be in the Jan 2012 basic CPS file.
 
+## CPS Dictionary
+
+CPS Dictionary is available at https://www.census.gov/data/datasets/time-series/demo/cps/cps-basic.2018.html. I used 2007 Jan version but later years are available on the website. 
+
+
+
