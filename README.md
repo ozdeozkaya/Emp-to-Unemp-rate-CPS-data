@@ -10,7 +10,7 @@ You can download public raw CPS files from this link: https://www.census.gov/dat
 
 Alternatively, you can download the CPS data from https://cps.ipums.org/cps/ for different programs -- which should be easier than reading raw data as we do here. 
 
-For linking individuals, I give an example code where I link people across different folders to estimate the rate from employment to unemployment. 
+For linking individuals, I give an example code where I link people across different folders to estimate the montly rate from employment to unemployment. 
 
 ## Notes on CPS
 
