@@ -3,9 +3,8 @@
 
 ## Overwiev
 
-The goal is to help to extract raw CPS files and link records from different CPD data months. 
+The goal is to extract raw CPS files and link records from different CPD data months; i.e. track same individuals across different months and obtain employment to unemployment rate. 
 For extraction, the code here is mainly based on Brian Dew's code: https://www.bd-econ.com/cps.html
-
 You can download public raw CPS files from this link: https://www.census.gov/data/datasets/time-series/demo/cps/cps-basic.2018.html. Each file is in .dat format. 
 
 Alternatively, you can download the CPS data from https://cps.ipums.org/cps/ for different programs -- which should be easier than reading raw data as we do here. 
